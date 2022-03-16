@@ -1,0 +1,12 @@
+E:\IDEprojects\VSproject\WinTools\WinTools\bin\Debug\WinTools.exe.config
+E:\IDEprojects\VSproject\WinTools\WinTools\bin\Debug\WinTools.exe.manifest
+E:\IDEprojects\VSproject\WinTools\WinTools\bin\Debug\WinTools.application
+E:\IDEprojects\VSproject\WinTools\WinTools\bin\Debug\WinTools.exe
+E:\IDEprojects\VSproject\WinTools\WinTools\bin\Debug\WinTools.pdb
+E:\IDEprojects\VSproject\WinTools\WinTools\obj\Debug\WinTools.Properties.Resources.resources
+E:\IDEprojects\VSproject\WinTools\WinTools\obj\Debug\WinTools.Tools.resources
+E:\IDEprojects\VSproject\WinTools\WinTools\obj\Debug\WinTools.csproj.GenerateResource.Cache
+E:\IDEprojects\VSproject\WinTools\WinTools\obj\Debug\WinTools.exe.manifest
+E:\IDEprojects\VSproject\WinTools\WinTools\obj\Debug\WinTools.application
+E:\IDEprojects\VSproject\WinTools\WinTools\obj\Debug\WinTools.exe
+E:\IDEprojects\VSproject\WinTools\WinTools\obj\Debug\WinTools.pdb
